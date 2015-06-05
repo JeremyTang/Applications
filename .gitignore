@@ -2,6 +2,11 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+# jingliang commit ignore rule
+target/
+bin/
+gen/
+*.apk
 
 # Package Files #
 *.jar
