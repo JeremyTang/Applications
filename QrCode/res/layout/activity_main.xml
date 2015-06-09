@@ -1,15 +1,41 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.application.qrcode.MainActivity" >
+    android:layout_height="match_parent" >
+
+    <EditText
+        android:id="@+id/edit_qrcode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="@dimen/text_noram_padding" />
+
+    <Button
+        android:id="@+id/btn_create"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edit_qrcode"
+        android:layout_marginTop="@dimen/text_noram_padding"
+        android:gravity="center"
+        android:padding="@dimen/text_noram_padding"
+        android:text="@string/qrcode_create" />
 
     <TextView
+        android:id="@+id/btn_qrcode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/selector_bg"
+        android:gravity="center"
+        android:padding="@dimen/text_noram_padding"
+        android:text="@string/app_name" />
+
+    <ImageView
+        android:id="@+id/image_qrcode"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:layout_above="@id/btn_qrcode"
+        android:layout_below="@id/btn_create"
+        android:layout_centerInParent="true" />
 
 </RelativeLayout>

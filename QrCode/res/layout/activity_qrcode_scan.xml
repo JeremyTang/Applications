@@ -32,7 +32,7 @@
         android:id="@+id/no_qrcode"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:background="#FFFFFF"
+        android:background="#999999"
         android:gravity="top"
         android:orientation="vertical"
         android:visibility="gone" >

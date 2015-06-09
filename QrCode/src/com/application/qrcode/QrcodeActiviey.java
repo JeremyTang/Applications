@@ -47,7 +47,7 @@ import com.google.zxing.BarcodeFormat;
 import com.google.zxing.Result;
 
 public class QrcodeActiviey extends Activity implements Callback {
-	private String TAG = "CaptureActivity";
+	private static final String TAG = "CaptureActivity";
 	private CaptureActivityHandler handler;
 	private ViewfinderView viewfinderView;
 	private boolean hasSurface;
@@ -60,19 +60,17 @@ public class QrcodeActiviey extends Activity implements Callback {
 	private static final float BEEP_VOLUME = 0.10f;
 	private boolean vibrate;
 	private ImageView imageView;
-	SurfaceView surfaceView;
+	private SurfaceView surfaceView;
 	private LinearLayout no_qrcode;
 	private static final String secret_Key = "mpost";
 	private static final String ACTION_LOGIN = "9";
 
 	// private static String URL_REGEX =
 	// "http://([\\w-]+\\.)+[\\w-]+(/[\\w- ./?%&=+]*)?";
-	private static final String URL_REGEX = "(http|ftp|https):\\/\\/[\\w\\-_]+(\\.[\\w\\-_]+)+([\\w\\-\\.,@?^=%&amp;:/~\\+#]*[\\w\\-\\@?^=%&amp;/~\\+#])?";
+	private static final String URL_REGEX = "(http|ftp|https):\\/\\/[\\w\\-_]+(\\.[\\w\\-_]+)"
+			+ "+([\\w\\-\\.,@?^=%&amp;:/~\\+#]*[\\w\\-\\@?^=%&amp;/~\\+#])?";
 
 	private Pattern pattern = Pattern.compile(URL_REGEX);
-
-	// private String my_url="http://mail.10086.cn/";
-	// private String test_url="http://mail.10086.cn/?columId=133&fla=";
 
 	private TextView result_title;
 
@@ -179,7 +177,7 @@ public class QrcodeActiviey extends Activity implements Callback {
 				param.setMargins(0, frame.top, 0, 0);
 
 				imageView.setLayoutParams(param);
-				
+
 				TranslateAnimation animation = new TranslateAnimation(0, 0, 0,
 						frame.bottom - frame.top - imageView.getHeight());
 
@@ -239,13 +237,8 @@ public class QrcodeActiviey extends Activity implements Callback {
 
 	public void handleDecode(Result obj, Bitmap barcode) {
 		inactivityTimer.onActivity();
-		// viewfinderView.drawResultBitmap(barcode);
-		playBeepSoundAndVibrate();
 
-		// txtResult.setText(obj.getBarcodeFormat().toString() + ":"
-		// + obj.getText());
-		// txtResult.setText(obj.getBarcodeFormat().toString() + ":"
-		// + PATTERN.matcher(obj.getText()).matches());
+		playBeepSoundAndVibrate();
 
 		temp_result = obj.getText();
 
