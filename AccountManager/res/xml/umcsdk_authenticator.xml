@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<account-authenticator xmlns:android="http://schemas.android.com/apk/res/android"
-    android:accountPreferences="@xml/umcsdk_prefs"
-    android:accountType="com.rich.account.type"
-    android:customTokens="true"
-    android:icon="@drawable/umcsdk_chinamobile_log"
-    android:label="@string/umcsdk_account_name"
-    android:smallIcon="@drawable/umcsdk_chinamobile_log" />
