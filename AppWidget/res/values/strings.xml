@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">手绘地图</string>
+    <string name="action_settings">设置</string>
+    <string name="action_search">搜索</string>
+    <string name="action_back">返回</string>
+
+    <!-- 用户向导 -->
+    <string name="string_come_in">马上围观</string>
+
+    <!-- 可刷新ListView -->
+    <string name="string_listview_message_loading">数据正在刷新...</string>
+    <string name="string_listview_message_pull">下拉刷新</string>
+    <string name="string_listview_message_putdown">松开刷新数据</string>
+    <!-- 首页 -->
+    <string name="index_recommend">推荐</string>
+    <string name="index_country">全国</string>
+    <string name="index_near">周边</string>
+
+    <!-- 手绘地图界面 -->
+    <string name="map_title">景点地图</string>
+    <string name="map_btn_pano">全景</string>
+    <string name="string_menu">菜单</string>
+
+    <!-- traffic 交通路线 -->
+    <string name="traffic_info_title">故宫交通信息</string>
+    <string name="traffic_info_body">公交1、5、10、20、52、101、103等多路公共汽车可达；乘1号线地铁天安门东站、天安门西站下，从天安门广场步行前往即可。</string>
+    <string name="traffic_info_phone">景区电话:</string>
+    <string name="basic_traffic">交通信息</string>
+    <string name="basic_info">景区概况</string>
+    <string name="basic_map">地图导航</string>
+    <string name="basic_taix">打车路线</string>
+
+    <!-- 设置界面 -->
+    <string name="two_hour">2小时</string>
+    <string name="four_hour">4小时</string>
+    <string name="six_hour">6小时</string>
+
+    <!-- 设置菜单 -->
+    <string name="menu_popup_setting_string">个人设置</string>
+    <string name="menu_popup_basic_string">景区概况</string>
+    <string name="menu_popup_traffic_string">交通信息</string>
+    <string name="menu_popup_list_string">景点列表</string>
+    <string name="menu_popup_more_string">更多程序</string>
+    <string name="menu_popup_sina_string">微博分享</string>
+
+    <!-- 登录界面 -->
+    <string name="string_login">登录</string>
+    <string name="string_register">注册</string>
+    <string name="string_username">用户名</string>
+    <string name="string_password">密码</string>
+    <string name="string_loging_message_null">用户名跟密码不能为空!</string>
+    <string name="string_username_hint">用户名(6~18位)</string>
+    <string name="string_password_hint">密码(6~18位)</string>
+    <!-- 注册界面 -->
+    <string name="string_register_phone">手机号码/邮箱</string>
+    <string name="string_set_password">设置密码</string>
+    <string name="string_confirm_password">确认密码</string>
+    <string name="string_register_error">注册失败!</string>
+
+    <!-- 景区详情 -->
+    <string name="string_zoon_collect">收藏</string>
+    <string name="string_zoon_travel">到此一游</string>
+    <string name="string_zoon_guide">攻略</string>
+    <string name="string_zoon_location">指路</string>
+    <string name="string_zoon_download">下载景区地图</string>
+    <string name="sight_info_title">旅游详情</string>
+    <string name="string_zoon_like">猜你喜欢</string>
+    <string name="string_zoon_popular">人气</string>
+    <string name="string_zoon_price">价格</string>
+    <string name="string_zoon_round">附近</string>
+    <string name="string_zoon_type">类型</string>
+
+    <!-- 周边景区 -->
+    <string name="string_near_nothing">这地儿很贫，旁边什么也没有！</string>
+    <string name="string_round">玩转周边</string>
+
+    <!-- 驴友社区 -->
+    <string name="string_zoon_hot">最热</string>
+    <string name="string_zoon_top">最新</string>
+    <string name="string_zoon_near">附近</string>
+
+    <!-- 活动路线 -->
+    <string name="string_route_recommend">推荐</string>
+    <string name="string_route_best">精选</string>
+
+    <!-- 全景界面所有窗口 -->
+    <string name="string_share_title">分享</string>
+
+</resources>

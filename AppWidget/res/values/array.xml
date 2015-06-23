@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_city_list">
+        <item>北京首都</item>
+        <item>上海虹桥</item>
+        <item>上海浦东</item>
+        <item>广州</item>
+        <item>深圳</item>
+        <item>香港</item>
+        <item>澳门</item>
+        <item>天津</item>
+        <item>成都</item>
+        <item>重庆</item>
+        <item>南京</item>
+        <item>西昌</item>
+        <item>襄樊</item>
+        <item>锡林浩特</item>
+        <item>银川</item>
+        <item>延安</item>
+        <item>延吉</item>
+        <item>烟台</item>
+        <item>盐城</item>
+        <item>宜宾</item>
+        <item>宜昌</item>
+        <item>伊宁</item>
+        <item>义乌</item>
+        <item>永州</item>
+        <item>榆林</item>
+        <item>珠海</item>
+        <item>昭通</item>
+        <item>张家界</item>
+        <item>湛江</item>
+        <item>芷江</item>
+        <item>中甸</item>
+        <item>舟山</item>
+        <item>遵义</item>
+        <item>郑州</item>
+    </string-array>
+    <!-- menu_popup -->
+    <string-array name="popup_list">
+        <item>个人设置</item>
+        <item>景区概况</item>
+        <item>交通信息</item>
+        <item>景点列表</item>
+        <item>更多程序</item>
+        <item>分享</item>
+    </string-array>
+
+    <!-- 设置选项 -->
+    <string-array name="setting_list">
+        <item>景点</item>
+        <item>美食</item>
+        <item>酒店</item>
+        <item>服务区</item>
+    </string-array>
+
+    <!-- 设置选项 -->
+    <string-array name="time_list">
+        <item>2小时</item>
+        <item>4小时</item>
+        <item>6小时</item>
+    </string-array>
+
+    <!-- 侧滑菜单选项 -->
+    <string-array name="menu_list">
+        <item>首页</item>
+        <item>我的微旅游</item>
+        <item>我的景区</item>
+        <item>活动路线</item>
+        <item>驴友社区</item>
+        <item>玩转周边</item>
+        <item>设置</item>
+        <item>我的消息</item>
+        <item>草稿箱</item>
+    </string-array>
+
+    <!-- 景点类型选项 -->
+    <string-array name="permutation_list">
+        <item>全部</item>
+        <item>文化古镇</item>
+        <item>公园</item>
+        <item>特色街区</item>
+    </string-array>
+
+    <!-- 我的微旅游选项 -->
+    <string-array name="me_travel_list">
+        <item>我的资料</item>
+        <item>我的景区</item>
+        <item>我的活动</item>
+        <item>我的攻略</item>
+        <item>我的消息</item>
+        <item>我的社区</item>
+        <item>我的收藏</item>
+        <item>我的到此一游</item>
+        <item>关于微旅游</item>
+    </string-array>
+    <!-- 我的路线详情 -->
+    <string-array name="route_info_list">
+        <item>出发日期</item>
+        <item>简介</item>
+        <item>微旅游策划</item>
+        <item>酷人同行</item>
+        <item>行程介绍</item>
+        <item>参考酒店</item>
+        <item>参考交通</item>
+        <item>参考说明</item>
+        <item>备注</item>
+    </string-array>
+
+    <!-- 全景导航操作 -->
+    <string-array name="panoramic_list">
+        <item>列表</item>
+        <item>语音</item>
+        <item>图片</item>
+        <item>传感</item>
+        <item>文本</item>
+        <item>地图</item>
+        <item>分享</item>
+    </string-array>
+
+</resources>

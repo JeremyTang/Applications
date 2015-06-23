@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="utf-8"?>
+<point_list>
+    <point x="4206" y="4516">
+      <id>51</id>
+      <latitude>39.91375</latitude>
+      <longitude>116.39522</longitude>
+      <title>东华门</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>496</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG009_1370492353.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG009_1370492353.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG010_1370492354.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG010_1370492354.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI001.html</url>
+      </urls>
+      <audios>
+        <audio name="东华门">
+          <audiodesc>故宫共有4个门，正门是午门、后门是神武门、西门为西华门、东门则是东华门。</audiodesc>
+          <audiourl>content/story051.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="4202" y="5178">
+      <id>52</id>
+      <latitude>39.91277</latitude>
+      <longitude>116.39512</longitude>
+      <title>角楼</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>325</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG001_1370492580.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG001_1370492580.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG016_1370492582.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG016_1370492582.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG017_1370492584.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG017_1370492584.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI002.html</url>
+      </urls>
+      <audios>
+        <audio name="角楼">
+          <audiodesc>在故宫城墙的四个拐角各有一座独特的复杂建筑，这就是角楼。</audiodesc>
+          <audiourl>content/story052.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2466" y="5462">
+      <id>1</id>
+      <latitude>39.91237</latitude>
+      <longitude>116.3911</longitude>
+      <title>午门</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>276</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG003_1370493275.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG003_1370493275.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG002_1370493363.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG002_1370493363.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI003.html</url>
+      </urls>
+      <audios>
+        <audio name="午门">
+          <audiodesc>古时候，中国的皇帝们都自称为天子，天子一定要位居宇宙的中心，他们认为穿过紫禁城的中轴线是子午线，所以这座位于宫城正中、子午线之上的宫门就被称为午门。</audiodesc>
+          <audiourl>content/scene_001-wumen-2.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2434" y="4746">
+      <id>2</id>
+      <latitude>39.91323</latitude>
+      <longitude>116.390933</longitude>
+      <title>太和门广场</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>294</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG004_1370498624.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG004_1370498624.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI004.html</url>
+      </urls>
+      <audios>
+        <audio name="太和门广场">
+          <audiodesc>在进入午门后，我们首先到达的是一个巨大宽广的院子，这就是太和门广场。</audiodesc>
+          <audiourl>content/scene_002-jishuiqiao.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="1878" y="4762">
+      <id>55</id>
+      <latitude>39.913322564703</latitude>
+      <longitude>116.38967226003</longitude>
+      <title>熙和门</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>243</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG005_1370498830.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG005_1370498830.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI005.html</url>
+      </urls>
+      <audios>
+        <audio name="熙和门">
+          <audiodesc>熙和门位于太和门外西侧庑房正中。始建于明永乐十八年（1420年），最初叫右顺门</audiodesc>
+          <audiourl>content/scene_xihemen.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="1330" y="4256">
+      <id>56</id>
+      <latitude>39.913951151741</latitude>
+      <longitude>116.38831693208</longitude>
+      <title>武英殿</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>196</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG006_1370499691.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG006_1370499691.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI006.html</url>
+      </urls>
+      <audios>
+        <audio name="武英殿">
+          <audiodesc>武英殿始建于明初，位于外朝熙和门以西。</audiodesc>
+          <audiourl>content/scene_003-yingwudian-2.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="3324" y="4372">
+      <id>57</id>
+      <latitude>39.914084200603</latitude>
+      <longitude>116.39307909264</longitude>
+      <title>文华殿</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>110</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG007_1370500583.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG007_1370500583.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI007.html</url>
+      </urls>
+      <audios>
+        <audio name="文华殿">
+          <audiodesc>文华殿始建于明初，位于外朝协和门以东，与武英殿东西遥对。</audiodesc>
+          <audiourl>content/story057.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2442" y="4446">
+      <id>3</id>
+      <latitude>39.913877195632</latitude>
+      <longitude>116.39092249903</longitude>
+      <title>太和门</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>277</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG011_1370500960.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG011_1370500960.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG012_1370500962.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG012_1370500962.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI008.html</url>
+      </urls>
+      <audios>
+        <audio name="太和门">
+          <audiodesc>太和门是紫禁城中最大最庄严的宫门，也是进入外朝三大殿区域的正门；穿过太和门，就是严格意义上的外朝了。</audiodesc>
+          <audiourl>content/scene_004-taihemen.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2412" y="3932">
+      <id>4</id>
+      <latitude>39.914592</latitude>
+      <longitude>116.390863</longitude>
+      <title>太和殿广场</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>192</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG013_1370501315.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG013_1370501315.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI009.html</url>
+      </urls>
+      <audios>
+        <audio name="太和殿广场">
+          <audiodesc>穿过太和门，我们就会看到一个气势非凡的广场，这就是太和殿广场。</audiodesc>
+          <audiourl>content/scene_005-taihedian-1.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="1896" y="3824">
+      <id>60</id>
+      <latitude>39.914850160004</latitude>
+      <longitude>116.38959525597</longitude>
+      <title>弘义阁</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>275</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG014_1370501548.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG014_1370501548.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI010.html</url>
+      </urls>
+      <audios>
+        <audio name="弘义阁">
+          <audiodesc>弘义阁位于太和殿前广场西侧，面东，与体仁阁相对而立。</audiodesc>
+          <audiourl>content/scene_005-taihedian-hongyige.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2452" y="3372">
+      <id>5</id>
+      <latitude>39.91568</latitude>
+      <longitude>116.39084</longitude>
+      <title>太和殿</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>191</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG015_1370501696.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG015_1370501696.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI011.html</url>
+      </urls>
+      <audios>
+        <audio name="太和殿">
+          <audiodesc>前方是太和殿，俗称金銮殿，是紫禁城内最大、最豪华、级别最高的宫殿建筑，同时也是中国现存古建筑中最大的木结构宫殿建筑。</audiodesc>
+          <audiourl>content/scene_005-taihedian-2.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    
+    <point x="2456" y="3034">
+      <id>7</id>
+      <latitude>39.91633</latitude>
+      <longitude>116.39079</longitude>
+      <title>中和殿</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>450</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG050_1370665067.jpg" title="中和殿">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG050_1370665067.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG051_1370665068.jpg" title="中和殿">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG051_1370665068.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI013.html</url>
+      </urls>
+      <audios>
+        <audio name="中和殿">
+          <audiodesc>中和殿，始建于1420年，修复于1627年，1765年再次翻修。</audiodesc>
+          <audiourl>content/scene_006-zhonghedian-1.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2456" y="2744">
+      <id>8</id>
+      <latitude>39.91679</latitude>
+      <longitude>116.39088</longitude>
+      <title>保和殿</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>452</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG047_1370664783.jpg" title="保和殿">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG047_1370664783.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG048_1370664785.jpg" title="保和殿">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG048_1370664785.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG049_1370664787.jpg" title="保和殿">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG049_1370664787.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI014.html</url>
+      </urls>
+      <audios>
+        <audio name="保和殿">
+          <audiodesc>保和殿，位于三层基石的最北端，是外朝的最后一个殿。它始建于1420年，分别在1625年和1765年两次翻修。</audiodesc>
+          <audiourl>content/scene_007-baohedian.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2440" y="2294">
+      <id>9</id>
+      <latitude>39.91779</latitude>
+      <longitude>116.39073</longitude>
+      <title>乾清门</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>473</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG052_1370664509.jpg" title="乾清门">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG052_1370664509.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG054_1370664512.jpg" title="乾清门">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG054_1370664512.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI015.html</url>
+      </urls>
+      <audios>
+        <audio name="乾清门">
+          <audiodesc>紫禁城以乾清门为界，乾清门内就是总称后三宫的乾清宫、交泰殿、坤宁宫。</audiodesc>
+          <audiourl>content/scene_008-qianqingmen.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="1906" y="2267">
+      <id>66</id>
+      <latitude>39.91771168008</latitude>
+      <longitude>116.38967913044</longitude>
+      <title>军机处</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>121</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG053_1370663734.jpg" title="军机处">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG053_1370663734.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI016.html</url>
+      </urls>
+      <audios>
+        <audio name="军机处">
+          <audiodesc>军机处地位显赫，相当于今天的国务院兼中央军委。</audiodesc>
+          <audiourl>content/scene_801-junjichu.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2464" y="1694">
+      <id>10</id>
+      <latitude>39.9186</latitude>
+      <longitude>116.39068</longitude>
+      <title>乾清宫</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>227</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG057_1370663549.jpg" title="乾清宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG057_1370663549.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI017.html</url>
+      </urls>
+      <audios>
+        <audio name="乾清宫">
+          <audiodesc>过了乾清门后，我们看到的第一个建筑就是乾清宫，它建于1420年，重修于1798年。</audiodesc>
+          <audiourl>content/scene_009-qianqinggong.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2350" y="1502">
+      <id>11</id>
+      <latitude>39.91898</latitude>
+      <longitude>116.39068</longitude>
+      <title>交泰殿</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>397</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG060_1370663333.jpg" title="交泰殿">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG060_1370663333.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG061_1370663334.jpg" title="交泰殿">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG061_1370663334.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI018.html</url>
+      </urls>
+      <audios>
+        <audio name="交泰殿">
+          <audiodesc>交泰殿是内朝三大殿中的第二座殿，建造时间要晚于乾清宫和坤宁宫，它也是内朝后三宫中最小的一个。</audiodesc>
+          <audiourl>content/scene_010-jiaotaidian.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2470" y="1376">
+      <id>12</id>
+      <latitude>39.91926</latitude>
+      <longitude>116.39066</longitude>
+      <title>坤宁宫</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>463</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG064_1370663172.jpg" title="坤宁宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG064_1370663172.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG065_1370663172.jpg" title="坤宁宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG065_1370663172.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI019.html</url>
+      </urls>
+      <audios>
+        <audio name="坤宁宫">
+          <audiodesc>坤宁宫是明代皇后的寝宫，始建于1420年，顺治十二年(1655年)仿制辽宁沈阳故宫的“清宁宫”重修，是紫禁城里唯一的一个北方风格的建筑。</audiodesc>
+          <audiourl>content/scene_011-kunninggong.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2412" y="968">
+      <id>13</id>
+      <latitude>39.91987</latitude>
+      <longitude>116.39064</longitude>
+      <title>御花园</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>118</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG072_1370662872.jpg" title="御花园">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG072_1370662872.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG073_1370662876.jpg" title="御花园">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG073_1370662876.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG074_1370662877.jpg" title="御花园">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG074_1370662877.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI020.html</url>
+      </urls>
+      <audios>
+        <audio name="御花园">
+          <audiodesc>穿过坤宁门，我们就到达御花园了，这是沿紫禁城南北中轴线朝北走，到达神武门前的最后一部分。</audiodesc>
+          <audiourl>content/scene_014-tianyimen.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="1848" y="1890">
+      <id>72</id>
+      <latitude>39.91813</latitude>
+      <longitude>116.38946</longitude>
+      <title>养心殿</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>348</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG079_1370662382.jpg" title="养心殿">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG079_1370662382.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG080_1370662384.jpg" title="养心殿">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG080_1370662384.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI022.html</url>
+      </urls>
+      <audios>
+        <audio name="养心殿">
+          <audiodesc>现在我们要参观的这组宫殿叫养心殿，出自孟子的“存其心养其性以事天”，意思就是涵养天性。</audiodesc>
+          <audiourl>content/scene_804-yangxindian-1.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="1968" y="1642">
+      <id>73</id>
+      <latitude>39.91869</latitude>
+      <longitude>116.38963</longitude>
+      <title>永寿宫</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>398</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG081_1370662048.jpg" title="永寿宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG081_1370662048.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG082_1370662049.jpg" title="永寿宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG082_1370662049.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI023.html</url>
+      </urls>
+      <audios>
+        <audio name="永寿宫">
+          <audiodesc>永寿宫为内廷西六宫之一，建于明永乐十八年，即1420年，初名长乐宫，在清朝虽多次重修或大修，但仍基本保持明初始建时的格局。</audiodesc>
+          <audiourl>content/scene_804-yangxindian-2.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="1664" y="1642">
+      <id>74</id>
+      <latitude>39.91869</latitude>
+      <longitude>116.38890564759</longitude>
+      <title>太极殿</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>310</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG083_1370661893.jpg" title="太极殿">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG083_1370661893.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG084_1370661895.jpg" title="太极殿">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG084_1370661895.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI024.html</url>
+      </urls>
+      <audios>
+        <audio name="太极殿">
+          <audiodesc>太极殿是紫禁城内廷西六宫之一，建于明永乐十八年，原名未央宫。</audiodesc>
+          <audiourl>content/scene_804-yangxindian-2.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="1968" y="1378">
+      <id>75</id>
+      <latitude>39.91915</latitude>
+      <longitude>116.38964</longitude>
+      <title>翊坤宫</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>134</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG087_1370661630.jpg" title="翊坤宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG087_1370661630.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG088_1370661631.jpg" title="翊坤宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG088_1370661631.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI025.html</url>
+      </urls>
+      <audios>
+        <audio name="翊坤宫">
+          <audiodesc>翊坤宫，是明清两代后妃居住的地方。建于明永乐十五年，即公元1417年。</audiodesc>
+          <audiourl>content/scene_806-yikungong-1.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="1664" y="1378">
+      <id>76</id>
+      <latitude>39.91915</latitude>
+      <longitude>116.38890564759</longitude>
+      <title>长春宫</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>439</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG091_1370661480.jpg" title="长春宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG091_1370661480.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG092_1370661482.jpg" title="长春宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG092_1370661482.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI026.html</url>
+      </urls>
+      <audios>
+        <audio name="长春宫">
+          <audiodesc>长春宫建成于明永乐十八年，也就是1420年，后经过多次修整。</audiodesc>
+          <audiourl>content/scene_805-changchungong.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="1968" y="1118">
+      <id>77</id>
+      <latitude>39.919716479396</latitude>
+      <longitude>116.38964</longitude>
+      <title>储秀宫</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>143</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG094_1370661286.jpg" title="储秀宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG094_1370661286.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG095_1370661287.jpg" title="储秀宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG095_1370661287.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI027.html</url>
+      </urls>
+      <audios>
+        <audio name="储秀宫">
+          <audiodesc>储秀宫是紫禁城西六宫之一，是明清两代后妃们居住的地方</audiodesc>
+          <audiourl>content/scene_806-yikungong-2.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="3254" y="1562">
+      <id>81</id>
+      <latitude>39.91885</latitude>
+      <longitude>116.39243</longitude>
+      <title>延禧宫</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>155</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG042_1370660250.jpg" title="延禧宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG042_1370660250.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI030.html</url>
+      </urls>
+      <audios>
+        <audio name="延禧宫">
+          <audiodesc>延禧宫建于明永乐十八年，即1420年，初名长寿宫，清代改名为延禧宫。</audiodesc>
+          <audiourl>content/scene_806-yanxigong.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2956" y="1630">
+      <id>82</id>
+      <latitude>39.91885</latitude>
+      <longitude>116.39174</longitude>
+      <title>景仁宫</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>407</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG041_1370660109.jpg" title="景仁宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG041_1370660109.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI031.html</url>
+      </urls>
+      <audios>
+        <audio name="景仁宫">
+          <audiodesc>景仁宫建于明永乐十八年(1420年)，初名长安宫，嘉靖十四年更名为景仁宫。</audiodesc>
+          <audiourl>content/scene_807-jingrengong-1.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2956" y="1366">
+      <id>83</id>
+      <latitude>39.91917</latitude>
+      <longitude>116.39176</longitude>
+      <title>承乾宫</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>290</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG039_1370659918.jpg" title="承乾宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG039_1370659918.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG040_1370659919.jpg" title="承乾宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG040_1370659919.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI032.html</url>
+      </urls>
+      <audios>
+        <audio name="承乾宫">
+          <audiodesc>承乾宫建成于明永乐十八年，初名永宁宫，崇祯五年改名为承乾宫。</audiodesc>
+          <audiourl>content/scene_808-chengqianmen.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="3254" y="1104">
+      <id>139</id>
+      <latitude>39.91965</latitude>
+      <longitude>116.39239</longitude>
+      <title>景阳宫</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>182</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG035_1370659549.jpg" title="景阳宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG035_1370659549.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG036_1370659550.jpg" title="景阳宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG036_1370659550.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI034.html</url>
+      </urls>
+      <audios>
+        <audio name="景阳宫">
+          <audiodesc>景阳宫位于钟粹宫的东面、永和宫的北面。明永乐十八年建成，初名长阳宫，嘉靖十四年更名景阳宫。</audiodesc>
+          <audiourl>content/scene_805-jingyanggong-1.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2956" y="1104">
+      <id>140</id>
+      <latitude>39.91966</latitude>
+      <longitude>116.39175</longitude>
+      <title>钟粹宫</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>484</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG034_1370659309.jpg" title="钟粹宫">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG034_1370659309.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI035.html</url>
+      </urls>
+      <audios>
+        <audio name="钟粹宫">
+          <audiodesc>钟粹宫建成于明永乐十八年，叫咸阳宫，明嘉靖十四年更名钟粹宫，在清代多次重修。</audiodesc>
+          <audiourl>content/scene_809-zhongcuigong.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="3400" y="2092">
+      <id>142</id>
+      <latitude>39.9181</latitude>
+      <longitude>116.39279</longitude>
+      <title>奉先殿</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>123</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG033_1370659140.jpg" title="奉先殿">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG033_1370659140.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI036.html</url>
+      </urls>
+      <audios>
+        <audio name="奉先殿">
+          <audiodesc>奉先殿位于紫禁城内朝东侧，是明清皇室祭祀祖先的家庙，始建于明初。清顺治十四年重建，后又多次修缮。</audiodesc>
+          <audiourl>content/scene_fengxiandian.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="3842" y="2662">
+      <id>145</id>
+      <latitude>39.91713</latitude>
+      <longitude>116.3942</longitude>
+      <title>九龙壁</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>279</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG031_1370658869.jpg" title="九龙壁">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG031_1370658869.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG032_1370658871.jpg" title="九龙壁">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG032_1370658871.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI037.html</url>
+      </urls>
+      <audios>
+        <audio name="九龙壁">
+          <audiodesc>九龙壁长30米，高3.5米，壁上雕刻有九条巨龙，每条龙各戏一颗火珠，背景为海水、江崖和祥云。</audiodesc>
+          <audiourl>content/scene_803-zhenbaoguan-2.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="3902" y="1852">
+      <id>151</id>
+      <latitude>39.91870</latitude>
+      <longitude>116.39441</longitude>
+      <title>宁寿宫</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>494</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG044_1374464570.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG044_1374464570.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG055_1374464573.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG055_1374464573.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG056_1374464574.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG056_1374464574.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI038.html</url>
+      </urls>
+      <audios>
+        <audio name="宁寿宫、皇极殿">
+          <audiodesc>宁寿宫，就是为乾隆皇帝退休准备的养老之所。作为太上皇的宫殿，宁寿宫的级别不亚于皇帝的居所。</audiodesc>
+          <audiourl>content/scene_803-zhenbaoguan-5.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="3958" y="1398">
+      <id>152</id>
+      <latitude>39.91930</latitude>
+      <longitude>116.39425</longitude>
+      <title>养性殿</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>301</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG026_1370657596.jpg" title="养性殿">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG026_1370657596.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG027_1370657597.jpg" title="养性殿">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG027_1370657597.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG028_1370657599.jpg" title="养性殿">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG028_1370657599.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI039.html</url>
+      </urls>
+      <audios>
+        <audio name="养性殿">
+          <audiodesc>养性殿位于宁寿宫后的养性门内。为宁寿宫后寝主体建筑之一。</audiodesc>
+          <audiourl>content/scene_803-yangxinmen.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="3958" y="1152">
+      <id>155</id>
+      <latitude>39.91973</latitude>
+      <longitude>116.39425</longitude>
+      <title>乐寿堂</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>371</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG024_1370657411.jpg" title="乐寿堂">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG024_1370657411.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG025_1370657414.jpg" title="乐寿堂">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG025_1370657414.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI040.html</url>
+      </urls>
+      <audios>
+        <audio name="乐寿堂">
+          <audiodesc>乐寿堂是宁寿宫后区中路建筑之一，其南是养性殿，其北有颐和轩。</audiodesc>
+          <audiourl>content/scene_803-zhenbaoguan-7.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="3958" y="912">
+      <id>156</id>
+      <latitude>39.91993</latitude>
+      <longitude>116.39425</longitude>
+      <title>颐和轩</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>268</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG023_1370657115.jpg" title="颐和轩">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG023_1370657115.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI041.html</url>
+      </urls>
+      <audios>
+        <audio name="颐和轩">
+          <audiodesc>颐和轩是紫禁城东北角宁寿宫后区中路建筑之一，南有乐寿堂，北为景祺阁，轩与阁之间有穿廊相连，形成工字殿。</audiodesc>
+          <audiourl>content/scene_803-zhenbaoguan-9.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="4070" y="1424">
+      <id>157</id>
+      <latitude>39.91917</latitude>
+      <longitude>116.39478</longitude>
+      <title>畅音阁</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>393</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG022_1370657059.jpg" title="畅音阁">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG022_1370657059.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI042.html</url>
+      </urls>
+      <audios>
+        <audio name="畅音阁">
+          <audiodesc>畅音阁位于宁寿宫后区东路南端，座南面北，是清宫内廷的戏楼。</audiodesc>
+          <audiourl>content/scene_803-zhenbaoguan-6.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="3772" y="1410">
+      <id>160</id>
+      <latitude>39.91973</latitude>
+      <longitude>116.39383</longitude>
+      <title>乾隆花园</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>423</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG020_1370656924.jpg" title="乾隆花园">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG020_1370656924.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG021_1370656926.jpg" title="乾隆花园">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG021_1370656926.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI043.html</url>
+      </urls>
+      <audios>
+        <audio name="乾隆花园">
+          <audiodesc>在等级森严、庄严肃穆的紫禁城中，有一片风格迥异的建筑透露出一份灵动和浪漫的气息。这就是宁寿宫花园，人们俗称乾隆花园，它是生性潇洒、喜好游历的乾隆皇帝亲自设计的得意之作。</audiodesc>
+          <audiourl>content/story094.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="3832" y="686">
+      <id>162</id>
+      <latitude>39.92030</latitude>
+      <longitude>116.39393</longitude>
+      <title>珍妃井</title>
+      <keyword/>
+      <type>attract</type>
+      <level>1</level>
+      <rating>10</rating>
+      <ratecount>218</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG019_1370656562.jpg" title="珍妃井">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG019_1370656562.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI044.html</url>
+      </urls>
+      <audios>
+        <audio name="珍妃井">
+          <audiodesc>珍妃井在故宫所有的水井中最为出名。</audiodesc>
+          <audiourl>content/scene_803-zhenbaoguan-11.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2172" y="460">
+      <id>14</id>
+      <latitude>39.92084</latitude>
+      <longitude>116.3906</longitude>
+      <title>神武门</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>387</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG075_1370662525.jpg" title="神武门">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG075_1370662525.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fthumbs%2FIMG076_1370662525.jpg" title="神武门">https://service.itouchchina.com/tongtiansvcs/viewimg/8/%2Ftongtian%2Farea8%2Fv5%2Fmedia%2Fimages%2FIMG076_1370662525.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI021.html</url>
+      </urls>
+      <audios>
+        <audio name="神武门">
+          <audiodesc>神武门是紫禁城的北门，北面正对景山。明永乐十八年，即1420年建成，明称玄武门。</audiodesc>
+          <audiourl>content/scene_017-shenwumen-2.mp3</audiourl>
+        </audio>
+      </audios>
+    </point>
+</point_list>
